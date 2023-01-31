@@ -1,6 +1,7 @@
 # Grub Randomizer
 A shell script to randomzie boot menu theme(s).
 
+## Usage
 ### Make the script executable
 ```bash
 sudo chmod +x /usr/local/bin/grubRandomizer.sh
